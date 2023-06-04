@@ -1,4 +1,4 @@
-<h1 align="left">💻🔥 Yordan Stoyanov</h1>
+<h1 align="left">💻🍕 Yordan Stoyanov</h1>
 
 ###
 
