@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi there 👋 I am an aspiring software developer, currently in the making and my main aim is to bring business value to everyone I work with.</p>
+<p align="left">Hi there 👋 I am an striving software developer, currently in the making and my main goal is to bring business value to everyone I work with.</p>
 
 ###
 
