@@ -1,12 +1,11 @@
-<h1 align="left">💻🍕 Yordan Stoyanov</h1>
+<h1 align="left">Hi there 👋 </h1>
 
 ###
 
-<h2 align="left">🤔 Who Am I ?!</h2>
-
-###
-
-<p align="left">Hi there 👋 I am a striving software developer, currently in the making and my main goal is to bring business value to everyone I work with.</p>
+<p align="left">👨‍💻 I'm a striving software developer who loves creating efficient and user-friendly solutions
+                            that
+                            meet the needs
+                            of businesses and individuals.</p>
 
 ###
 
@@ -16,11 +15,11 @@
 
 ###
 
-<p align="left">✨ 0 days without bugs this year!<br>📚 I'm currently learning: Angular<br>🎯 Goals: 315lb bench press<br>🎲 Fun fact: a sheet of paper can only be folded 7 times!</p>
+<p align="left">✨ 0 days without bugs this year!<br>📚 I'm currently learning: React<br>🎯 Goals: a Ferari in color - red!<br></p>
 
 ###
 
-<h2 align="left">I mess around with:</h2>
+<h2 align="left">I work with:</h2>
 
 ###
 
