@@ -1,11 +1,8 @@
-<h1 align="left">Hi there 👋 </h1>
+<h1 align="left">Hello there 👋 </h1>
 
 ###
 
-<p align="left">👨‍💻 I'm a striving software developer who loves creating efficient and user-friendly solutions
-                            that
-                            meet the needs
-                            of businesses and individuals.</p>
+<p align="left">👨‍💻 I am a junior software developer with a strong passion for creating innovative and practical solutions.</p>
 
 ###
 
