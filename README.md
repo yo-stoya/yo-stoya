@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ 0 days without bugs this year!<br>📚 I'm currently learning: React<br>🎯 Goals: a Ferari in color - red!<br></p>
+<p align="left">✨ 0 days without bugs this year!<br>📚 I'm currently learning: React<br>🎯 Goals: a Ferari in color #FF0000!<br></p>
 
 ###
 
