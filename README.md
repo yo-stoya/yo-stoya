@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 I am a junior software developer with a strong passion for creating innovative and practical solutions.</p>
+<p align="left">👨‍💻 I am a junior software developer with a strong passion for creating cool and practical solutions.</p>
 
 ###
 
