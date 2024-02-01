@@ -6,16 +6,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.imgflip.com/7o7fd5.gif"  />
-</div>
-
-###
-
-<p align="left">✨ 0 days without bugs this year!<br>📚 I'm currently learning: React<br>🎯 Goals: a Ferari in color #FF0000!<br></p>
-
-###
-
 <h2 align="left">I work with:</h2>
 
 ###
