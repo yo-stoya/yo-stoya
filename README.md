@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 I am a junior software developer with a strong passion for creating cool and practical solutions.</p>
+<p align="left">👨‍💻 I am a junior software developer with a strong passion for creating cool and practical solutions. </p>
 
 ###
 
@@ -21,7 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
 </div>
 
 ###
