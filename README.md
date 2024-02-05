@@ -35,6 +35,6 @@
 <h2 align="center">⚒️ My Tool Box ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,oracle,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker" />
     <img src="https://skillicons.dev/icons?i=javascript,react,angular,html,css" /><br>
 </div>
