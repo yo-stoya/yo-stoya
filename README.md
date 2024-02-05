@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for new opportunities 
+ 👨‍💻 I’m currently looking for new employment opportunities 
  
- 🌱 I’m currently learning **Docker, React**
+ 🌱 I’m currently learning **React**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+📝 I regularly write articles on [https://blog.yo-stoya.com/](https://blog.yo-stoya.com/)
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -32,9 +32,9 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Tool Box ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker" />
-    <img src="https://skillicons.dev/icons?i=javascript,react,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,oracle,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,angular,html,css" /><br>
 </div>
